@@ -1,7 +1,7 @@
 # SEPA PTS (PROJECT TRACKING SYSTEM)
 # BUILDING A DISTRIBUTED APPLICATION SYSTEM WITH HETEROGENEOUS CLIENTS USING .NET AND PYTHON.
 
-Sepa pts involves building a distributed system that will enable sepa students to access sepa sprint projects online with the help of team leaders assigned by the admin. The system will also allow the students to track their overrall progress. Each project has specific requirements and gives the opportunity to be creative.
+Sepa pts involves building a distributed system that will enable users to access projects online with the help of team leaders assigned by the admin. The system will also allow the users to track their overrall progress. Each project has specific requirements and gives the opportunity to be creative.
 
 ## Admin Role
 1. Setting up the project
@@ -19,7 +19,7 @@ Sepa pts involves building a distributed system that will enable sepa students t
 5. Record completed tasks
 6. Report delays, justify them and provide new estimated completion dates.
 
-## Customer role (student)
+## Customer role 
 1. View projects
 2. View stucture of the project
 3. Tackle the tasks assigned
@@ -27,5 +27,22 @@ Sepa pts involves building a distributed system that will enable sepa students t
 
 # Objective
 
-The objective of the project is to build a distributed system (a number of different interfaces) that will be locally availabe for the admin and accessible online for the team leader and team members (students). The admin interface will be tightly coupled to the system .NET remoting. 
+The objective of the project is to build a distributed system (a number of different interfaces) that will be locally availabe for the admin and accessible online for the team leader and team members. The admin interface will be tightly coupled to the system .NET remoting.
+
+1. Build the business logic and data access objects
+
+2. Build admin GUI
+
+3. Build team leader GUI
+
+4. Build a normal user GUI
+
+# Languages and Tools used
+
+1.Microsoft Sql Server
+
+2.C#
+
+3.Net framework
+
  
