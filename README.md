@@ -19,7 +19,7 @@ Sepa pts involves building a distributed system that will enable users to access
 5. Record completed tasks
 6. Report delays, justify them and provide new estimated completion dates.
 
-## Customer role 
+## Team member role 
 1. View projects
 2. View stucture of the project
 3. Tackle the tasks assigned
